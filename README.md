@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
