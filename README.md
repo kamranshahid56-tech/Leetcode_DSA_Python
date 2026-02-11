@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
