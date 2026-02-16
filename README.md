@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
@@ -30,6 +31,7 @@
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
