@@ -104,4 +104,12 @@
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
