@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
