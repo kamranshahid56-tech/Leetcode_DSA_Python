@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0054-spiral-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -50,6 +52,7 @@
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
