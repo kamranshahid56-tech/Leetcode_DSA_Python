@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
