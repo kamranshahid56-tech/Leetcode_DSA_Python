@@ -40,6 +40,7 @@
 | [0041-first-missing-positive](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
