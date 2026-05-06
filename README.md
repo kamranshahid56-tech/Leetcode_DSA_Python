@@ -21,6 +21,7 @@
 | [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
