@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0724-find-pivot-index) |
 ## Sliding Window
@@ -125,6 +128,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
