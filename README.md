@@ -29,6 +29,7 @@
 | [0877-stone-game](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
 |  |
 | ------- |
