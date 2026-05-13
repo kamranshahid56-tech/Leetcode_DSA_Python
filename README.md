@@ -57,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +100,7 @@
 | [0020-valid-parentheses](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
