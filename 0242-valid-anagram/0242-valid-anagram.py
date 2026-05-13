@@ -5,17 +5,10 @@ class Solution:
         char_set = {}
         chars_set = {}
         for char,chars in zip(t,s):
-            if char in char_set:
-                char_set[char]+=1
-            else:
-                char_set[char] = 1
 
-            if chars in chars_set:
-                chars_set[chars]+=1
-            else:
-                chars_set[chars] = 1
-        if char_set == chars_set:
-            return True
-        else:
-            return False
+            char_set[char] = char_set.get(char,0)+1
+            
+            chars_set[chars] = chars_set.get(chars,0)+1
+
+        return char_set == chars_set
         
