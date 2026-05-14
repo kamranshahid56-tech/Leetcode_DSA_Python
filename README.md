@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0057-insert-interval) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
@@ -98,6 +101,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
