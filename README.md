@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
@@ -64,6 +65,7 @@
 | [0290-word-pattern](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0567-permutation-in-string) |
@@ -122,10 +124,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
