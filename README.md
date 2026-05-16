@@ -104,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
