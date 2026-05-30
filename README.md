@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0523-continuous-subarray-sum) |
@@ -44,6 +45,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -101,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -191,6 +194,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +229,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
