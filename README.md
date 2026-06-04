@@ -212,14 +212,17 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
