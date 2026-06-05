@@ -212,16 +212,19 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -256,5 +259,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kamranshahid56-tech/Leetcode_DSA_Python/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
